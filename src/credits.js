@@ -8,7 +8,7 @@ var creditsState = {
             fill: '#424242'
         });
         this.creator.anchor.setTo(0.5, 0.5);
-        this.creatorName = game.add.text(game.world.centerX, 230, 'Siddharth Nair', {
+        this.creatorName = game.add.text(game.world.centerX, 230, 'Sakhh, {
             fill: '#fff',
             fontSize: 48
         });
